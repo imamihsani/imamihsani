@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="20%" alt="IMXX Banner" src="https://github.com/user-attachments/assets/36a6a4ea-fbaa-492f-a9ca-e72b3ca011b8" />
+<img width="40%" alt="IMXX Banner" src="https://github.com/user-attachments/assets/36a6a4ea-fbaa-492f-a9ca-e72b3ca011b8" />
 
 
 # IMXX
