@@ -88,9 +88,6 @@ I enjoy solving problems, learning new technologies, and transforming ideas into
 
 ## GitHub Analytics
 
-
-## GitHub Analytics
-
 ![GitHub Stats](./profile/stats.svg)
 
 ![Top Languages](./profile/top-langs.svg)
