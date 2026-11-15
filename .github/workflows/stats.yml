@@ -6,26 +6,19 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v4
-        with:
-          persist-credentials: true
-
-      - name: Create Profile Directory
-        run: mkdir -p profile
 
       - name: Generate GitHub Stats
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=imamihsani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF
@@ -33,23 +26,17 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Top Languages
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=imamihsani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Verify Generated Files
-        run: |
-          ls -lah profile/
-          test -s profile/stats.svg
-          test -s profile/top-langs.svg
-
       - name: Commit Stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git diff --cached --quiet || git commit -m "Update GitHub statistics"
+          git commit -m "Update GitHub statistics" || exit 0
           git push
