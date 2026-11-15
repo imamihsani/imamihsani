@@ -88,12 +88,17 @@ I enjoy solving problems, learning new technologies, and transforming ideas into
 
 ## GitHub Analytics
 
+### GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imamihsani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+
+### Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imamihsani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imamihsani&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF003C&currStreakLabel=00D9FF)
+### GitHub Streak
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imamihsani&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF003C&currStreakLabel=00D9FF)
 ---
 
 ## Developer Mindset
