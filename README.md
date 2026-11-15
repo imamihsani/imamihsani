@@ -1,5 +1,5 @@
 
-<!-- ═══════════════════════════════════════════════════════════ --><!--                    IMXX | PROFILE README                    --><!-- ═══════════════════════════════════════════════════════════ --><div align="center"><img src="./assets/imxx-profile.png" width="100%" alt="IMXX Cyberpunk Developer Banner"/>"IMXX"
+<!-- ═══════════════════════════════════════════════════════════ --><!--                    IMXX | PROFILE README                    --><!-- ═══════════════════════════════════════════════════════════ --><div align="center"><img src="./imxx-profile.png" width="100%" alt="IMXX Cyberpunk Developer Banner"/>"IMXX"
 
 "< Software Engineer />"
 
