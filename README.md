@@ -1,4 +1,4 @@
-<div align="center"><img src="./assets/imxx-profile.png" width="100%" alt="IMXX Profile Banner"/>IMXX
+<div align="center"><img src="./imxx-profile.png" width="100%" alt="IMXX Profile Banner"/>IMXX
 
 "< Software Engineer />"
 
