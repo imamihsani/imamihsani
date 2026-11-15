@@ -88,8 +88,10 @@ I enjoy solving problems, learning new technologies, and transforming ideas into
 
 ## GitHub Analytics
 
-![GitHub Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imamihsani/imamihsani/main/profile/stats.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/imamihsani/imamihsani/main/profile/top-langs.svg" width="49%" />
+</p>
 
 
 ### GitHub Streak
