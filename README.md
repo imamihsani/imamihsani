@@ -89,8 +89,8 @@ I enjoy solving problems, learning new technologies, and transforming ideas into
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imamihsani/imamihsani/main/profile/stats.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/imamihsani/imamihsani/main/profile/top-langs.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/imamihsani/imamihsani/main/profile/stats.svg" width="49%" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/imamihsani/imamihsani/main/profile/top-langs.svg" width="49%" alt="Top Languages" />
 </p>
 
 
