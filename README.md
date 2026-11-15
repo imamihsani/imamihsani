@@ -1,4 +1,4 @@
-<div align="center"><img src="./imxx-profile.png" width="100%" alt="IMXX Profile Banner"/>IMXX
+<div align="center"><img src="https://chatgpt.com/s/m_6af963fde86c8191a420b9314502e6e5"  width="100%" alt="IMXX Profile Banner"/>IMXX
 
 "< Software Engineer />"
 
