@@ -33,7 +33,7 @@ const developer = {
 };
 
 console.log("Welcome to my GitHub!");
-
+```
 Passionate about building digital solutions, developing web applications, designing system architectures, and exploring innovative technologies.
 
 I enjoy solving problems, learning new technologies, and transforming ideas into functional digital experiences.
