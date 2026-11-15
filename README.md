@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="./assets/imxx-profile.png" width="100%" alt="IMXX Banner">
+<img width="100%" alt="IMXX Banner" src="https://github.com/user-attachments/assets/36a6a4ea-fbaa-492f-a9ca-e72b3ca011b8" />
+
 
 # IMXX
 ### `< Software Engineer />`
