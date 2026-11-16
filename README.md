@@ -17,23 +17,51 @@
 
 ## About Me
 
-\<table>
-\<tr>
-\<td width="50%" valign="top">
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 **JavaScript — Developer Profile**
 
-\<pre> const developer = {     name: "IMXX",     role: "Software Engineer",     github: "imamihsani",     interests: [         "Software Development",         "Web Development",         "System Engineering",         "Automation",         "UI/UX Design"     ],     motto: "Think. Code. Innovate. Experience." };  console.log("Welcome to my GitHub!"); \</pre>
+```javascript
+const developer = {
+    name: "IMXX",
+    role: "Software Engineer",
+    github: "imamihsani",
+    interests: [
+        "Software Development",
+        "Web Development",
+        "System Engineering",
+        "Automation",
+        "UI/UX Design"
+    ],
+    motto: "Think. Code. Innovate. Experience."
+};
 
-\</td> \<td width="50%" valign="top">
+console.log("Welcome to my GitHub!");
+```
+
+</td> <td width="50%" valign="top">
 
 **PHP — Development Workflow**
 
-\<pre> $workflow = [     "01" => "Think",     "02" => "Reconcile with User",     "03" => "Code",     "04" => "Software Development Life Cycle" ];  foreach ($workflow as $step => $process) {     echo "$step. $process\n"; }  print_r("I am ready to code and solve the bug!"); \</pre>
+```php
+$workflow = [
+    "01" => "Think",
+    "02" => "Reconcile with User",
+    "03" => "Code",
+    "04" => "Software Development Life Cycle (SDLC)"
+];
 
-\</td> \</tr> \</table>
+foreach ($workflow as $step => $process) {
+    echo "$step. $process\n";
+}
 
+print_r("I am ready to code and solve the bug!");
+```
 
+</td> </tr> </table> </div>
 
 Passionate about building digital solutions, developing web applications, designing system architectures, and exploring innovative technologies.
 
