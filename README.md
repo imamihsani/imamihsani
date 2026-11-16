@@ -17,6 +17,10 @@
 
 ## About Me
 
+\<table> \<tr> \<td width="50%" valign="top">
+
+**JavaScript — Developer Profile**
+
 ```javascript
 const developer = {
     name: "IMXX",
@@ -34,6 +38,29 @@ const developer = {
 
 console.log("Welcome to my GitHub!");
 ```
+
+\</td> \<td width="50%" valign="top">
+
+**PHP — Development Workflow**
+
+```php
+$workflow = [
+    "01" => "Think",
+    "02" => "Reconcile with User",
+    "03" => "Code",
+    "04" => "Software Development Life Cycle (SDLC)"
+];
+
+foreach ($workflow as $step => $process) {
+    echo "$step. $process\n";
+}
+
+print_r("I am ready to code and solve the bug!");
+```
+
+\</td> \</tr> \</table>
+
+
 Passionate about building digital solutions, developing web applications, designing system architectures, and exploring innovative technologies.
 
 I enjoy solving problems, learning new technologies, and transforming ideas into functional digital experiences.
